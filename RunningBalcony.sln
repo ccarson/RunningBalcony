@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "RunningBalcony", "RunningBalcony.dwproj", "{F910B183-76B8-468A-9B0E-3E06DB8ED1CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F910B183-76B8-468A-9B0E-3E06DB8ED1CB}.Development|Default.ActiveCfg = Development
+		{F910B183-76B8-468A-9B0E-3E06DB8ED1CB}.Development|Default.Build.0 = Development
+		{F910B183-76B8-468A-9B0E-3E06DB8ED1CB}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
